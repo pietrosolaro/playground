@@ -17,7 +17,7 @@ If you're stuck on a problem for more than 20–25 minutes, read a solution. The
 ## Progress tracker
 
 - [x] Step 1: Big-O + Python tools (2 hrs)
-- [ ] Step 2: Hash maps & sets (2 hrs)
+- [x] Step 2: Hash maps & sets (2 hrs)
 - [ ] Step 3: Recursion → trees → graphs (DFS/BFS) (4 hrs)
 - [ ] Step 4: Two pointers, sliding window, binary search (3 hrs)
 - [ ] Step 5: Heaps (1.5 hrs)
@@ -109,13 +109,13 @@ def two_sum(nums, target):
     return []
 ```
 
-### Practice
+### Practice (LeetCode)
 
-- [ ] Contains Duplicate
-- [ ] Two Sum
-- [ ] Valid Anagram
-- [ ] Group Anagrams
-- [ ] Top K Frequent Elements (you'll revisit this in Step 5)
+- [x] Contains Duplicate
+- [x] Two Sum
+- [x] Valid Anagram
+- [x] Group Anagrams
+- [x] Top K Frequent Elements (you'll revisit this in Step 5)
 
 ### Self-check
 
@@ -185,8 +185,8 @@ def bfs_distances(graph, start):
 
 ### Practice
 
-- [ ] Maximum Depth of Binary Tree
-- [ ] Invert Binary Tree
+- [x] Maximum Depth of Binary Tree
+- [x] Invert Binary Tree
 - [ ] Binary Tree Level Order Traversal (BFS)
 - [ ] Validate Binary Search Tree
 - [ ] Number of Islands (DFS on a grid)
