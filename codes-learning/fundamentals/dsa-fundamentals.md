@@ -187,9 +187,9 @@ def bfs_distances(graph, start):
 
 - [x] Maximum Depth of Binary Tree
 - [x] Invert Binary Tree
-- [ ] Binary Tree Level Order Traversal (BFS)
+- [x] Binary Tree Level Order Traversal (BFS)
 - [ ] Validate Binary Search Tree
-- [ ] Number of Islands (DFS on a grid)
+- [x] Number of Islands (DFS on a grid)
 - [ ] Rotting Oranges (BFS on a grid)
 - [ ] Clone Graph
 
